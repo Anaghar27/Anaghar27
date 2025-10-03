@@ -9,16 +9,14 @@
 
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Data Analytics GIF"/>
 
-- Graduate Student, M.S. in Data Science @ Northeastern University  
+- Graduate Student, **M.S. in Data Science @ Northeastern University**  
 - Former Software Engineer @ Motorola Mobility (a Lenovo Company)  
 - Former Intern @ Thoughtclan Technologies  
-- Focus: Machine Learning • NLP • LLMs • Data Engineering • Analytics  
-- Experienced in Python, SQL, PyTorch, scikit-learn, Spark, Tableau, Streamlit  
-- Interests: Explainable AI, trustworthy ML, and scalable data systems  
-- Skilled at building reproducible workflows, dashboards, and model pipelines  
-- Excited about applying AI to real-world domains like healthcare, finance, and enterprise workflows  
-- Passionate about turning data into insights and deploying impactful AI solutions
-- Currently seeking Co-op and full time opportunities for **Data Scientist, Data Engineer, Data Analyst, Business Analyst, ML Engineer, and AI Engineer** roles where I can design scalable and impactful AI systems  
+- Focus: **Machine Learning • NLP • Data Engineering • Analytics**  
+- Skilled in **Python, SQL, PyTorch, scikit-learn, Spark, Tableau, Streamlit**  
+- Experienced in building **reproducible workflows, dashboards, and ML pipelines**  
+- Passionate about **explainable AI and scalable data systems**  
+- **Currently seeking Co-op & full-time opportunities** as **Data Scientist | Data Engineer | Data Analyst | Business Analyst | ML Engineer | AI Engineer**  
 
 ---
 
