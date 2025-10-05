@@ -10,8 +10,8 @@
 <img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Data Analytics GIF"/>
 
 - Graduate Student, **M.S. in Data Science @ Northeastern University**  
-- Former Software Engineer @ Motorola Mobility (a Lenovo Company)  
-- Former Intern @ Thoughtclan Technologies  
+- Former Software Engineer at **Motorola Mobility (a Lenovo Company)**
+- Former Intern at **Thoughtclan Technologies Pvt Ltd.**
 - Focus: **Machine Learning • NLP • Data Engineering • Analytics**  
 - Skilled in **Python, SQL, PyTorch, scikit-learn, Spark, Tableau, Streamlit**  
 - Experienced in building **reproducible workflows, dashboards, and ML pipelines**  
